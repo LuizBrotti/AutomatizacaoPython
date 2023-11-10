@@ -26,6 +26,7 @@ goldElementPath   = '//*[@id="main"]/div/div/div[2]/div[1]/div[1]/div[1]/div[3]/
 # Acess Chrome
 driver = webdriver.Chrome()
 
+# Get Values from website using getValues method
 dollarValue = getValue(driver,dollarPagePath,dollarElementPath)
 pesosValue  = getValue(driver,pesosPagePath,pesosElementPath)
 euroValue   = getValue(driver,euroPagePath,euroElementPath)
