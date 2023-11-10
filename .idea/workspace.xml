@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d5607d5b-fd54-4319-8d4e-91f256ccc2f5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automatizacaoPython/automate_currencies.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/automatizacaoPython/automatecurrencies.py" beforeDir="false" afterPath="$PROJECT_DIR$/automatizacaoPython/automatecurrencies.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
