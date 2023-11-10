@@ -1,1 +1,2 @@
+# Automazição Python
 The objective of this project was to create a program that extracts the current value of different currencies taking into account the real currency, for this I imported the Selenium library and openpyxl. With the Selenium library I can obtain information from the website, and with the openpyxl library I can put the information taken from the website into a spreadsheet.
